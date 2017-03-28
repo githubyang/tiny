@@ -1,6 +1,6 @@
 # tiny
-[![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](http://#)
-[![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](http:#)
+[![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](#)
+[![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](#)
 
 tiny 目前正在开发中, 针对PC项目,极小并且简洁的前端解决方案,包含构建工具,数据驱动UI框架,路由.
 
