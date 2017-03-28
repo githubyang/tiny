@@ -112,7 +112,6 @@ var route=(function(win){
         return path;
     }
     function routers(){
-        console.log(this)
         this.$=[];
         observable(this);
         observableObj.on('stop', this.s.bind(this));
